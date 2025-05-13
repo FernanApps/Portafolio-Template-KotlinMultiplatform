@@ -1,0 +1,3 @@
+[submodule "windowsizeclass"]
+	path = windowsizeclass
+	url = https://github.com/chrisbanes/material3-windowsizeclass-multiplatform.git

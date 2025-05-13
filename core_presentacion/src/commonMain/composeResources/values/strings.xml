@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="select_your_image">Select your image</string>
+    <string name="process_image">Process image</string>
+    <string name="search_words">Search words</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="live">Live</string>
+    <string name="word_search">Word Search</string>
+
+</resources>
