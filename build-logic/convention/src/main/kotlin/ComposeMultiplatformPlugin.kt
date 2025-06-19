@@ -46,6 +46,9 @@ class ComposeMultiplatformPlugin : Plugin<Project> {
                         implementation(composeDeps.ui)
                         implementation(composeDeps.components.resources)
                         implementation(composeDeps.components.uiToolingPreview)
+                        implementation(composeDeps.animation)
+                        implementation(composeDeps.animationGraphics)
+
                     }
                 }
                 jvmMain.dependencies {
